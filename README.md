@@ -1,1 +1,0 @@
-# ARKON UNIT 01 - Rebirth Edition\nبوت تيليجرام يعمل بدون GPT باستخدام ذكاء بديل حر.
